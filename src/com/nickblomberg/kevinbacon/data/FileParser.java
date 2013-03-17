@@ -1,3 +1,4 @@
+package com.nickblomberg.kevinbacon.data;
 
 
 import java.io.BufferedReader;
@@ -8,6 +9,9 @@ import java.util.Hashtable;
 import java.util.Map;
 
 import javax.swing.JOptionPane;
+
+import com.nickblomberg.kevinbacon.model.Actor;
+import com.nickblomberg.kevinbacon.model.Movie;
 
 /**
  * The purpose of this class is to read in data from the imdb text file,

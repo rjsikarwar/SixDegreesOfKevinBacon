@@ -1,7 +1,13 @@
+package com.nickblomberg.kevinbacon.search;
 
 
 import java.util.Map;
 import java.util.Vector;
+
+import com.nickblomberg.kevinbacon.exceptions.ActorNotFoundException;
+import com.nickblomberg.kevinbacon.exceptions.EmptyQueueException;
+import com.nickblomberg.kevinbacon.model.Actor;
+import com.nickblomberg.kevinbacon.model.Movie;
 
 
 /**

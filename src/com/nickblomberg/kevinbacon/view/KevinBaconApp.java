@@ -1,3 +1,4 @@
+package com.nickblomberg.kevinbacon.view;
 
 
 import java.awt.Color;
@@ -15,6 +16,13 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SpringLayout;
+
+import com.nickblomberg.kevinbacon.data.FileParser;
+import com.nickblomberg.kevinbacon.exceptions.ActorNotFoundException;
+import com.nickblomberg.kevinbacon.exceptions.EmptyQueueException;
+import com.nickblomberg.kevinbacon.model.Actor;
+import com.nickblomberg.kevinbacon.model.Movie;
+import com.nickblomberg.kevinbacon.search.Search;
 
 
 /**

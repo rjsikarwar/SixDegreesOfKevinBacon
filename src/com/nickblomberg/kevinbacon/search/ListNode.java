@@ -1,3 +1,6 @@
+package com.nickblomberg.kevinbacon.search;
+import com.nickblomberg.kevinbacon.model.Actor;
+
 
 
 /**

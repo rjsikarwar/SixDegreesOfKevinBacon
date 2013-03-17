@@ -1,7 +1,11 @@
+package com.nickblomberg.kevinbacon.view;
 
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
+import com.nickblomberg.kevinbacon.exceptions.ActorNotFoundException;
+import com.nickblomberg.kevinbacon.exceptions.EmptyQueueException;
 
 
 

@@ -1,3 +1,4 @@
+package com.nickblomberg.kevinbacon.exceptions;
 
 
 import javax.swing.JOptionPane;

@@ -1,3 +1,4 @@
+package com.nickblomberg.kevinbacon.model;
 
 
 import java.util.Vector;
